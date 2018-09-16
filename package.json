@@ -3,9 +3,16 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "moment": "^2.22.2",
+    "moment-timezone": "^0.5.21",
     "prop-types": "^15.5.8",
     "react": "^15.5.4",
     "react-dom": "^15.5.4",
+    "react-moment": "^0.7.9",
+    "react-scroll-box": "^0.3.5",
+    "react-scrollbar-js": "^1.0.1",
+    "react-split-pane": "^0.1.82",
+    "react-table": "^6.8.6",
     "react-websocket": "^1.1.7"
   },
   "devDependencies": {

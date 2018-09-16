@@ -8,6 +8,15 @@
 h1.instrument {
   font-family: monospace;
   font-size: 32px;
+  padding: 5px 20px;
+}
+
+div.row {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+
 }
 
 
